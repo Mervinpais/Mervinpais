@@ -15,6 +15,7 @@ Im a sad/bored boi who is making C# apps
 
 [![Mervin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mervinpais&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Mervin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mervinpais&show_icons=true&theme=algolia))](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mervinpais&repo=Easy14_Programing_language&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Mervinpais/Mervinpais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
