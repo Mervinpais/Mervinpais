@@ -1,0 +1,21 @@
+/*
+    This is like the main CSS for all websites, then we have custom style inline styles in the html files too
+*/
+
+body {
+    background-color: #303030;
+    color: white;
+}
+
+a {
+    padding: 10px;
+    background-color: #606060;
+    color: white;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+a:hover {
+    padding: 11px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
