@@ -2,10 +2,14 @@
     This is like the main CSS for all websites, then we have custom style inline styles in the html files too
 */
 
+html {
+    background-color: #202020;
+}
 body {
     background-color: #303030;
     color: white;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 10%;
 }
 
 p {
