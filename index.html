@@ -4,14 +4,58 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mervin's Blog</title>
+    <style>
+        .blog-item {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            max-width: 600px;
+            margin-bottom: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: box-shadow 0.3s ease;
+        }
+        
+        .blog-item:hover {
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
+        
+        .blog-item img {
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            margin-right: 10px;
+            border-radius: 5px;
+        }
+        
+        .blog-content {
+            flex-grow: 1;
+        }
+        
+        .blog-title {
+            font-size: 24px;
+            margin: 0 0 10px;
+        }
+        
+        .blog-preview {
+            font-size: 16px;
+            margin: 0 0 15px;
+        }
+    </style>
 </head>
 <body>
     <h1>Mervinpais</h1>
     <h2>Blog n Stuff</h2>
     <a href="http://mervin14.epizy.com/?i=1">Main Website link lol</a>
-    <p>So yeah, this website will be used to document my current Journey as a C# Developer and also will be used to help me document my history so i can i reference it quickely whenever lol</p>
-    <div class="blogItem">
-        
+    <p>So yeah, this website will be used to document my current journey as a C# Developer and also will be used to help me document my history so I can reference it quickly whenever lol</p>
+    <div class="blog-item" onclick="location.href='blog-post-url';">
+        <img src="blogImages/firsBlog.png" alt="Blog Image">
+        <div class="blog-content">
+            <h2 class="blog-title">My first blog?!</h2>
+            <p class="blog-preview">My first (shitpost) blog</p>
+        </div>
     </div>
 </body>
 </html>
