@@ -8,6 +8,10 @@ body {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+p {
+    font-size: large;
+}
+
 a {
     padding: 10px;
     background-color: #606060;
@@ -20,3 +24,44 @@ a:hover {
     padding: 11px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
+
+.custom-code {
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    padding: 10px;
+    white-space: pre-wrap;
+    background-color: rgba(25, 25, 25, 1) !important;
+    text-shadow: none !important;
+    color: white !important;
+}
+
+.code-container {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.code-top-bar {
+    background-color: #f7f7f7;
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+}
+
+.language {
+    font-size: 14px;
+    font-weight: bold;
+    color: #333;
+}
+
+.copy-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
