@@ -1,9 +1,6 @@
 # Mervinpais's Profile
 I’m @Mervinpais
-- 📫 Reach me @ mervinpaismakeswindows14@gmail.com
-
-I Love C#, i mean i LOVE C#... is what 12 year old Mervin would have said
-But i really just use C# because its the only language i know
+- Contact me @ mervinpais14@protonmail.com for anything related to legal, copyright, or anything really
 
 Languages;
   - C# (💯)
