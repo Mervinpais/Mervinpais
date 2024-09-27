@@ -1,16 +1,21 @@
-# Mervinpais's Profile
-I’m @Mervinpais
-- Contact me @ mervinpais14@protonmail.com for anything related to legal, copyright, or anything really
+# Haiiiiii
 
-Languages;
-  - C# (100%)
-  - HTML, CSS
+I’m Mervin
 
-[![Mervin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mervinpais&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mervinpais&repo=Easy14_Programing_language&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- [mervinpais14@protonmail.com](mervinpais14@protonmail.com) for anything related to legal, copyright, or anything =)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mervinpais&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<!-- <i>if there are no stats, i forgor to set this up</i>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mervinpais)](https://github.com/anuraghazra/github-readme-stats) -->
+Hai, Im Mervin :3 and i love programming,
+
+im geeky/nerdy or whtvr and love yall
+
+programming = epic
+
+but school is also there :/
+
+ehhhh whatever
+
+nobody cares so :3
+
+:33333333
